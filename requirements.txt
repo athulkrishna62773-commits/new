@@ -1,2 +1,2 @@
 Streamlit
-Segno
+pillow
